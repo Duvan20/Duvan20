@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Aditya Kanoi Banner]([https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png](https://avatars.githubusercontent.com/u/148820830?v=4))
 
 <img alt="Night Coding" src="[./assets/Hand%20Wave.gif](https://avatars.githubusercontent.com/u/148820830?v=4)" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
